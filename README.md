@@ -12,4 +12,6 @@ Minitron milestone:
 
 0.5:
  Project Fully remaded from scratch, removed: start menu, windows system.
-0.6: Added shutdown function in "power" app.
+ 
+0.6: 
+ Added shutdown function in "power" app, PicoCart file manager stub, get started app stub.
